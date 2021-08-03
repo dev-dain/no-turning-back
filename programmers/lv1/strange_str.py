@@ -7,10 +7,3 @@ def solution(s):
     lst1 = [''.join([word[i].lower() if i % 2 else word[i].upper() \
                      for i in range(len(word))]) for word in s.split(' ')]
     return ' '.join(lst1)
-
-# if문만 쓰는 경우
-list = ['apple', 'facebook', 'microsoft', 'google']
-print([e for e in list if len(e) % 2])
-
-# if-else 모두 쓰는 경우
-print([e.lower() if len(e) % 2 else e.upper() for e in list])
