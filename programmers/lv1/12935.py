@@ -1,3 +1,4 @@
+# 08-03
 # https://programmers.co.kr/learn/courses/30/lessons/12935
 # 제일 작은 수 제거하기
 # 입력 : List[int]

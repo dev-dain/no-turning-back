@@ -1,3 +1,4 @@
+# 08-03
 # https://programmers.co.kr/learn/courses/30/lessons/12940
 # 최대공약수와 최대공배수 구하기
 # 입력 : int, int
